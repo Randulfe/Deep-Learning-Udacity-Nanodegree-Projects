@@ -1,7 +1,7 @@
 # Deep-Learning-Udacity-Nanodegree-Projects
 
 ## Summary
-This repository contains all the main projects I have been assesed in Udacity's Nanodegree program for Deep Learning. This program has taught me how to implement the main types of neural networks (FFNN,CNN,RNN,Auto Encoders,GANs,DCGANs, etc) in Pytorch along with relevant concepts in the fields of Data Science and Machine Learning such as attention, batching, data pre-processing and so on.
+This repository contains all the main projects I have been assesed in [Udacity's Nanodegree program for Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101). This program has taught me how to implement the main types of neural networks (FFNN,CNN,RNN,Auto Encoders,GANs,DCGANs, etc) in Pytorch along with relevant concepts in the fields of Data Science and Machine Learning such as attention, batching, data pre-processing and so on.
 
 The projects of this repository are: 
 - A Feed Forward Neural Network (FFNN) for predicting bike sharing patterns and prices.
