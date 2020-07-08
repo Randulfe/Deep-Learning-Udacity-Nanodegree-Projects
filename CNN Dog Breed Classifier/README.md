@@ -12,6 +12,7 @@ In this project, I learnt how to build a pipeline that can be used within a web 
 Along with exploring state-of-the-art CNN models for classification and localization, I made important design decisions about the user experience for your app. In this project I used both my own CNN model coded from scratch an I also used the transferred learning model from 
 
 These are the architectures of each model:
+
 **The one I built from scratch**
 
 ```
@@ -34,7 +35,16 @@ Net(
   (dropout): Dropout(p=0.5)
 )
 ```
-**The one I built from scratch**
+
+The one using **transfer lerning** was a ResNet50 which provides performance without consuming too much computation. More details about how I trained it and which layers of this ResNet I modify [check the app](https://github.com/Randulfe/Deep-Learning-Udacity-Nanodegree-Projects/blob/master/CNN%20Dog%20Breed%20Classifier/dog_app.ipynb)
+
+### Output
+
+These are just a couple of sample outputs I obtained from my app. To see more, [check the original notebok of the app](https://github.com/Randulfe/Deep-Learning-Udacity-Nanodegree-Projects/blob/master/CNN%20Dog%20Breed%20Classifier/dog_app.ipynb): 
+
+![image of human](https://github.com/Randulfe/Deep-Learning-Udacity-Nanodegree-Projects/blob/master/CNN%20Dog%20Breed%20Classifier/Screenshot_2020-07-08%20dog_app.png)
+
+![image of dog, breed collie](https://github.com/Randulfe/Deep-Learning-Udacity-Nanodegree-Projects/blob/master/CNN%20Dog%20Breed%20Classifier/Screenshot_2020-07-08%20dosg_app.png)
 
 
 ### Instructions
