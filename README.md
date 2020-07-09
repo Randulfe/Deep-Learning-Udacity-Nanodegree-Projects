@@ -5,9 +5,9 @@ This repository contains all the main projects I have been assesed in [Udacity's
 
 The projects of this repository are: 
 - A Feed Forward Neural Network (FFNN) for [predicting bike sharing patterns and prices](https://github.com/Randulfe/Deep-Learning-Udacity-Nanodegree-Projects/tree/master/Bike%20Sharing%20Patterns%20Neural%20Network%20for%20Nanodegree).
-- Convolutional Neural Network (CNN) for image recognition in a program to classify dog breeds and find similarities between human faces and dog breeds. 
-- Recurrent Neural Networks (RNN) for sequence processing to generate a TV script based on the plot of a TV Series. 
-- A Deep Convolutional Generative Adversial Network (DCGAN) to generate human faces. 
+- Convolutional Neural Network (CNN) for image recognition in a program to [classify dog breeds and find similarities between human faces and dog breeds](https://github.com/Randulfe/Deep-Learning-Udacity-Nanodegree-Projects/tree/master/CNN%20Dog%20Breed%20Classifier). 
+- Recurrent Neural Networks (RNN) for sequence processing to [generate a TV script based on the plot of a TV Series](https://github.com/Randulfe/Deep-Learning-Udacity-Nanodegree-Projects/tree/master/RNN%20TV%20Script%20Generator). 
+- A Deep Convolutional Generative Adversial Network (DCGAN) to [generate human faces](https://github.com/Randulfe/Deep-Learning-Udacity-Nanodegree-Projects/tree/master/DCGAN%20Face%20Generator). 
 - Deploying a Recurrent Neural Network for movie sentiment analysis on the web using Amazon Web Services (AWS) SageMaker, Lambda, API Gateaway and Cloudfront. 
 
 ## Instructions
