@@ -51,7 +51,11 @@ These are just a couple of sample outputs I obtained from my app. To see more, [
 
 The important parts of this project are in the `dog_app.ipynb` file. However, if you wish to follow this project and run it locally, you can follow [these instructions](https://github.com/Randulfe/Deep-Learning-Udacity-Nanodegree-Projects/tree/master/Bike%20Sharing%20Patterns%20Neural%20Network%20for%20Nanodegree#instructions) but changing the command of Step 1 to `https://github.com/Randulfe/Deep-Learning-Udacity-Nanodegree-Projects/tree/master/CNN%20Dog%20Breed%20Classifier`. 
 
+### License
 
+MIT License
+
+Copyright (c) 2020 Mateo Randulfe
 
 
 
